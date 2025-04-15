@@ -3,7 +3,7 @@ Project File - CareerFoundry Data Analytics Course
 
 Excel | Tableau
 
-# Medical Staffing Plan
+
 ## Overview
 The flu is a contagious respiratory illness caused by influenza viruses that infect the nose, throat, and lungs. It can range from mild to severe and, in some cases, lead to death. While anyone can get the flu, certain groups are at higher risk of developing serious complications. These include adults over 65 and children under five. The most effective way to prevent influenza is through annual vaccination, especially for those in vulnerable populations.
 
