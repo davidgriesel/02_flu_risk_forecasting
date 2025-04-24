@@ -35,7 +35,7 @@ A medical staffing agency that supplies temporary personnel to clinics and hospi
 
 ## Data Used
 
-This analysis uses publicly available data sourced from the [**Centres for Disease Control and Prevention (CDC)**](https://wonder.cdc.gov/ucd-icd10.html) and the [**US Census Bureau**](https://data.census.gov) that cover the period 2009 to 2017. The data was provided by [**CareerFoundry**](https://careerfoundry.com/en/courses/become-a-data-analyst/) as part of their Data Analytics Course.
+This analysis uses publicly available data sourced from the **Centres for Disease Control and Prevention (CDC)** and the [**US Census Bureau** that cover the period 2009 to 2017. The data was provided by **CareerFoundry** as part of their Data Analytics Course.
 
 - [**Influenza-related deaths**](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) - Number of deaths by location, time, and age. (CDC)
 - [**Population**](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - Number of people by location, time, age, and gender. (US Census Bureau)
@@ -43,7 +43,7 @@ This analysis uses publicly available data sourced from the [**Centres for Disea
 
 ## Deliverables
 
-- [**Interim Report**](https://github.com/davidgriesel/02-flu-risk-forecasting/tree/main/deliverables)
+- **Interim Report**
 - [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [**Detailled Case Study**](https://davidgriesel.com/data-analysis-informing-medical-staffing-plan/)
 
