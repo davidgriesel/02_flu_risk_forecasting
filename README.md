@@ -33,8 +33,6 @@ This analysis uses publicly available data sourced from the [**Centres for Disea
 
 ## Deliverables
 - [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-## Further Reading
 - [**Detailled Case Study**](https://davidgriesel.com/data-analysis-informing-medical-staffing-plan/)
 
 ## Takeaways
@@ -56,5 +54,5 @@ This project is licensed under the MIT License.
 ```text
 ├── data/                 # Cleaned Dataset
 ├── workbooks/            # Excel Workbooks
-├── LICENSE               # Project License (MIT)
+├── LICENSE               # Project License
 └── README.md             # Project Overview
