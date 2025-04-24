@@ -43,7 +43,7 @@ This analysis uses publicly available data sourced from the [**Centres for Disea
 
 ## Deliverables
 
-- [**Interim Report**]
+- [**Interim Report**](https://github.com/davidgriesel/02-flu-risk-forecasting/tree/main/deliverables)
 - [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [**Detailled Case Study**](https://davidgriesel.com/data-analysis-informing-medical-staffing-plan/)
 
