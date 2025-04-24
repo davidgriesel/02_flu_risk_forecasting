@@ -1,48 +1,60 @@
-# 02-flu-risk-forecasting
+# Flu Risk Forecasting
+
+*This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
 ## Overview
-The flu is a contagious respiratory illness caused by influenza viruses that infect the nose, throat, and lungs. It can range from mild to severe and, in some cases, lead to death. While anyone can get the flu, certain groups are at higher risk of developing serious complications. These include adults over 65 and children under five. The most effective way to prevent influenza is through annual vaccination, especially for those in vulnerable populations.
 
-In the United States, there is an annual surge in flu cases, leading to an increase in hospitalisations due to severe complications. During this time, hospitals and clinics often require additional staff to manage the increased number of patients, and medical staffing agencies help meet this demand by providing temporary healthcare professionals.
-
-## Goals
-To inform the timing and spatial distribution of a medical agency’s staffing plan by analysing historical influenza and demographic data.
-
-## Scope
-The plan prepares for the upcoming 2018 season and covers all hospitals in each of the 50 states of the United States.
-
-## Objectives
-### Spatial Distribution & Risk Classification
-Identify and prioritise states with large vulnerable populations by categorising them as low, medium, or high risk based on population size.
-### Seasonality & Forecasting
-Assess whether influenza follows a seasonal pattern and, if so, determine whether its onset and duration remain consistent across states each year in order to forecast trends for the upcoming season.
+A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. This analysis supports planning efforts by identifying high-risk population groups using age, examining seasonal trends, and developing a state-level risk profile to help determine when, where, and how many staff may be needed.
 
 ## Key Questions
-### Spatial distribution & Risk Classification
-- Does the severity of influenza vary?
-- Who suffers most?
-- Does population size have an impact?
-- Where are vulnerable populations located?
-- How does population size translate to risk?
-### Seasonality & Forecasting
-- When is influenza most prevalent?
+1. Which age groups are most affected by influenza?
+2. Is there a relationship between population size and influenza-related deaths?
+3. When does influenza season typically start and end?
+4. How does the severity of influenza vary from year to year?
+5. Which states are most at risk?
+6. Based on risk, when, where, and how many staff should be deployed?
 
-## Tools & Techniques
-Excel - Data Preparation | Statistical Analysis | Hypothesis Testing
-Tableau - Visualisation | Storytelling
+## Tools Used 
 
-## Data
-The following datasets from the Centres for Disease Control and Prevention (CDC) and the US Census Bureau were used that cover the period 2009 to 2017:
-### Number of influenza-related deaths
-Number of deaths by location, time, and age. (CDC)
-### Influenza vaccination rates in children
-Number of vaccinations by location, time, and age. (CDC)
-### Population
-Number of people by location, time, age, and gender. (US Census Bureau)
+- **Excel** - Data Processing | Analysis
+- **Tableau** - Visual Exploration & Analysis | Forecasting | Storytelling
 
-## Other Links
-[Tableau Storyboard](https://public.tableau.com/views/InfluenzaSeason_17337130832630/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Skills Demonstrated
 
-[CDC](https://wonder.cdc.gov/ucd-icd10.html)
+- Data Exploration | Description | Profiling | Quality & Integrity Assessment | Cleaning | Transformation
+- Descriptive Statistics | Trend Analysis | Seasonal Forecasting | Statistical Analysis | Hypothesis Testing
+- Deriving Insights | Data Visualisation | Storytelling
 
-[US Census Bureau](https://data.census.gov)
+## Data Used
+This analysis uses publicly available data sourced from the [**Centres for Disease Control and Prevention (CDC)**](https://wonder.cdc.gov/ucd-icd10.html) and the [**US Census Bureau**](https://data.census.gov) that cover the period 2009 to 2017. The data was provided by [**CareerFoundry**](https://careerfoundry.com/en/courses/become-a-data-analyst/) as part of their Data Analytics Course.
+
+- [**Influenza-related deaths**](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) - Number of deaths by location, time, and age. (CDC)
+- [**Population**](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - Number of people by location, time, age, and gender. (US Census Bureau)
+
+## Deliverables
+- [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Further Reading
+- [**Detailled Case Study**](https://davidgriesel.com/data-analysis-informing-medical-staffing-plan/)
+
+## Takeaways
+**Successes** - The project delivered actionable insights into the spatial distribution of vulnerable populations, enabling the creation of a risk profile to guide regional staff allocations. It also enhanced understanding of influenza seasonality, supporting the strategic timing of deployments to meet anticipated healthcare demands.
+
+**Challenges** - The available data lacked sufficient detail to account for all known factors in the analysis. The suppression of all records for children under 5 limited the ability to assess risk in this age group, highlighting how data privacy laws can restrict public health analyses when key demographic groups are excluded.
+Challenges – The available data lacked the granularity needed to consider all known risk factors. In particular, the suppression of records for children under 5 limited risk assessment for this group, illustrating how data privacy laws can constrain public health analyses when key demographics are excluded.
+
+**Way Forward** - To evaluate the proposed deployment strategy, its impact should be monitored during the upcoming influenza season. Tracking performance indicators, such as staffing efficiency, response times, and patient outcomes across risk tiers, will help evaluate resource allocation and guide improvements.
+Incorporating data on chronic health conditions and vaccination rates among seniors could further strengthen the analysis by offering a more comprehensive view of factors driving influenza outcomes. This would support more targeted and effective planning in future seasons.
+
+
+## License
+This project is licensed under the MIT License.
+
+
+## Repository Structure
+
+```text
+├── data/                 # Cleaned Dataset
+├── workbooks/            # Excel Workbooks
+├── LICENSE               # Project License (MIT)
+└── README.md             # Project Overview
