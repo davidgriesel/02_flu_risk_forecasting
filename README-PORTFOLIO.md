@@ -6,17 +6,17 @@
 - **Tableau** - Visualisation | Forecasting | Storytelling
 
 
-## Deliverables
-- **Interim Report** *(link to be added)*
-- [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [**Detailled Case Study**](https://davidgriesel.com/data-analysis-informing-medical-staffing-plan/)
-
-
 ## Skills Demonstrated
 - Project Research | Design | Planning
 - Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
 - Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Seasonal Forecasting
 - Deriving Insights | Data Visualisation | Reporting | Storytelling
+
+
+## Deliverables
+- **Interim Report** *(link to be added)*
+- [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [**Detailled Case Study**](https://davidgriesel.com/data-analysis-informing-medical-staffing-plan/)
 
 
 ## Data Sourced
