@@ -1,13 +1,37 @@
 # Flu Risk Forecasting
 
+## Tools Used 
+- **Excel** - Data Preparation | Analysis
+- **Word** - Reporting
+- **Tableau** - Visualisation | Forecasting | Storytelling
 
-## Overview
 
+## Deliverables
+- **Interim Report** *(link to be added)*
+- [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [**Detailled Case Study**](https://davidgriesel.com/data-analysis-informing-medical-staffing-plan/)
+
+
+## Skills Demonstrated
+- Project Research | Design | Planning
+- Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
+- Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Seasonal Forecasting
+- Deriving Insights | Data Visualisation | Reporting | Storytelling
+
+
+## Data Sourced
+This analysis uses publicly available data sourced from the **Centres for Disease Control and Prevention (CDC)** and the **US Census Bureau** that cover the period 2009 to 2017. The data was provided by **CareerFoundry** as part of their Data Analytics Course.
+
+- [**Influenza-related deaths**](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) - Number of deaths by location, time, and age.
+- [**Population**](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - Number of people by location, time, age, and gender.
+
+
+---
+## Project Overview
 A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. This analysis supports planning efforts by identifying high-risk population groups using age, examining seasonal trends, and developing a state-level risk profile to help determine when, where, and how many staff may be needed.
 
 
 ## Key Questions
-
 1. Which age groups are most affected by influenza?
 2. Is there a relationship between population size and influenza-related deaths?
 3. When does influenza season typically start and end?
@@ -16,44 +40,19 @@ A medical staffing agency that supplies temporary personnel to clinics and hospi
 6. Based on risk, when, where, and how many staff should be deployed?
 
 
-## Tools Used 
-
-- **Excel** - Data Preparation | Analysis
-- **Word** - Reporting
-- **Tableau** - Visualisation | Forecasting | Storytelling
-
-
-## Skills Demonstrated
-
-- Project Research | Design | Planning
-- Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
-- Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Seasonal Forecasting
-- Deriving Insights | Data Visualisation | Reporting | Storytelling
-
-
-## Data Sourced
-
-This analysis uses publicly available data sourced from the **Centres for Disease Control and Prevention (CDC)** and the **US Census Bureau** that cover the period 2009 to 2017. The data was provided by **CareerFoundry** as part of their Data Analytics Course.
-
-- [**Influenza-related deaths**](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) - Number of deaths by location, time, and age.
-- [**Population**](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - Number of people by location, time, age, and gender.
-
-
 ## Key Insights
-
-
 ### Vulnerable Populations - Who?
 Adults aged 65 and older account for the vast majority of influenza-related deaths and display the greatest variation in mortality.
 
 <table>
 <tr>
 <td align="center" width="33%">
-  <img src="visuals/pie-deaths-agepng.png" ><br>
-  <em>Adults aged 65 and older account for more than 60% of all influenza-related deaths — a trend that reinforces CDC classifications of this group as high risk.</em>
+    <img src="visuals/pie-deaths-agepng.png" ><br>
+    <em>Adults aged 65 and older account for more than 60% of all influenza-related deaths — a trend that reinforces CDC classifications of this group as high risk.</em>
 </td>
 <td align="center" width="33%">
-  <img src="visuals/box-age-group.png" ><br>
-  <em>The 65+ age group shows a significantly wider spread and the highest median number of deaths, reflecting both elevated mortality and greater variation compared to younger age groups.</em>
+    <img src="visuals/box-age-group.png" ><br>
+    <em>The 65+ age group shows a significantly wider spread and the highest median number of deaths, reflecting both elevated mortality and greater variation compared to younger age groups.</em>
 </td>
 </tr>
 </table>
@@ -82,8 +81,8 @@ States were classified into high, medium, and low risk based on their elderly po
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="visuals/map-vulnerable.png" ><br>
-  <em>Geospatial view confirms that high-risk populations are not confined to the South — with large vulnerable populations in California, the Northeast, and parts of the Midwest.</em>
+    <img src="visuals/map-vulnerable.png" ><br>
+    <em>Geospatial view confirms that high-risk populations are not confined to the South — with large vulnerable populations in California, the Northeast, and parts of the Midwest.</em>
 </td>
 <td align="center" width="50%">
   <img src="visuals/bar-risk-population.png" ><br>
@@ -95,19 +94,12 @@ States were classified into high, medium, and low risk based on their elderly po
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="visuals/line-risk-forecast.png" <br>
-  <em>Forecasted deaths for 2018 reveal sharp seasonal peaks in high-risk states, confirming the elevated burden in these areas. Low-risk states show minimal fluctuation, indicating a reduced need for additional staff.</em>
+    <img src="visuals/line-risk-forecast.png" <br>
+    <em>Forecasted deaths for 2018 reveal sharp seasonal peaks in high-risk states, confirming the elevated burden in these areas. Low-risk states show minimal fluctuation, indicating a reduced need for additional staff.</em>
 </td>
 <td width="50%"></td>
 </tr>
 </table>
-
-
-## Deliverables
-
-- **Interim Report** *(link to be added)*
-- [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [**Detailled Case Study**](https://davidgriesel.com/data-analysis-informing-medical-staffing-plan/)
 
 
 ## Recommendations
@@ -125,27 +117,22 @@ Real-time data in November can help forecast flu season severity and guide flexi
 ## Takeaways
 
 ### Successes
-
 The project delivered actionable insights into the spatial distribution of vulnerable populations, enabling the creation of a risk profile to guide regional staff allocations. It also enhanced understanding of influenza seasonality, supporting the strategic timing of deployments to meet anticipated healthcare demands.
 
 ### Challenges
-
 The available data lacked sufficient detail to account for all known risk factors in the analysis. In particular, the suppression of records for children under 5 limited risk assessment for this group, illustrating how data privacy laws can constrain public health analyses when key demographics are excluded.
 
 ### Way Forward
-
 To evaluate the proposed deployment strategy, its impact should be monitored during the upcoming influenza season. Tracking performance indicators, such as staffing efficiency, response times, and patient outcomes across risk tiers, will help evaluate resource allocation and guide improvements.
 
 Incorporating data on chronic health conditions and vaccination rates among seniors could further strengthen the analysis by offering a more comprehensive view of factors driving influenza outcomes. This would support more targeted and effective planning in future seasons.
 
 
 ## License
-
 This project is licensed under the MIT License.
 
 
 ## Repository Structure
-
 ```text
 ├── deliverables/         # Interim Report
 ├── visuals/              # Charts
