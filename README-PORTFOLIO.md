@@ -25,7 +25,7 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 - [**Influenza-related deaths**](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) - Number of deaths by location, time, and age.
 - [**Population**](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - Number of people by location, time, age, and gender.
 
-
+<br><br>
 ---
 ## Project Overview
 A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. This analysis supports planning efforts by identifying high-risk population groups using age, examining seasonal trends, and developing a state-level risk profile to help determine when, where, and how many staff may be needed.
@@ -130,6 +130,10 @@ Incorporating data on chronic health conditions and vaccination rates among seni
 
 ## License
 This project is licensed under the MIT License.
+
+
+<br><br>
+---
 
 
 ## Repository Structure
