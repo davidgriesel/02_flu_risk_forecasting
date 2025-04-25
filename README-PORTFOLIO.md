@@ -92,12 +92,13 @@ States were classified into high, medium, and low risk based on their elderly po
 </tr>
 </table>
 
-</table>
+<table>
+<tr>
 <td align="center" width="50%">
   <img src="visuals/line-risk-forecast.png" <br>
   <em>Forecasted deaths for 2018 reveal sharp seasonal peaks in high-risk states, confirming the elevated burden in these areas. Low-risk states show minimal fluctuation, indicating a reduced need for additional staff.</em>
 </td>
-<td width="50%"></td> 
+<td width="50%"></td>
 </tr>
 </table>
 
