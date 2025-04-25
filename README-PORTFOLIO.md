@@ -22,8 +22,11 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 - [**Population**](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - Number of people by location, time, age, and gender.
 <br><br>
 
-# Project Overview
+<hr>
 
+# Results
+
+## Overview
 A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. This analysis supports planning efforts by identifying high-risk population groups using age, examining seasonal trends, and developing a state-level risk profile to help determine when, where, and how many staff may be needed.
 
 
@@ -100,18 +103,22 @@ States were classified into high, medium, and low risk based on their elderly po
 
 ## Key Recommendations
 
-- **Prioritise high-risk states** - States with the largest 65+ populations should receive the majority of seasonal staffing resources, especially between December and February.
+### Prioritise high-risk states
+States with the largest 65+ populations should receive the majority of seasonal staffing resources, especially between December and February.
 
-- **Use risk classification** - Tiering states into high, medium, and low risk allows for efficient and scalable resource planning.
+### Use risk classification
+Tiering states into high, medium, and low risk allows for efficient and scalable resource planning.
 
-- **Monitor early trends** - Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
+### Monitor early trends
+Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
 
 
 ## Takeaways
-### Successe
+
+### Successes
 The project delivered actionable insights into the spatial distribution of vulnerable populations, enabling the creation of a risk profile to guide regional staff allocations. It also enhanced understanding of influenza seasonality, supporting the strategic timing of deployments to meet anticipated healthcare demands.
 
-### Challengs
+### Challenges
 The available data lacked sufficient detail to account for all known risk factors in the analysis. In particular, the suppression of records for children under 5 limited risk assessment for this group, illustrating how data privacy laws can constrain public health analyses when key demographics are excluded.
 
 ### Way Forward
