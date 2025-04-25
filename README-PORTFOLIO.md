@@ -1,18 +1,23 @@
 # Key Insights
 
+
 ## Vulnerable Populations - Who?
 Adults aged 65+ accounted are most vulnerable to influenza.
 
-<p align="left">
-  <img src="visuals/pie-deaths-agepng.png" alt="Pie Chart — Deaths by Age group" width="600" style="float: left; margin-right: 15px;">
- Adults aged 65+ accounted for over 60% of influenza-related deaths, confirming their high-risk status.
-</p>
+|![pie](visuals/pie-deaths-agepng.png)|![box](visuals/box-age-group.png)|
+|:---:|:---:|
+| Caption 1 | Caption 2 |
 
-<table>
-<tr>
-<td><img src="visuals/pie-deaths-agepng.png" alt="Pie Chart — Deaths by Age group" width="600"></td>
-<td>
-Adults aged 65+ accounted for over 60% of influenza-related deaths, confirming their high-risk status.
-</td>
-</tr>
-</table>
+
+## Seasonality – When?
+
+|![line](visuals/line-region-yearly.png)|![bar](visuals/bar-deaths-year.png)|
+|:---:|:---:|
+| Caption 1 | Caption 2 |
+
+
+## Risk Classification & Forecasting – Where & How Many?
+
+|![map](visuals/map-vulnerable.png)|![bar](visuals/bar-risk-population.png)|![forecast](visuals/line-risk-forecast).png)|
+|:---:|:---:|:---:|
+| Caption 1 | Caption 2 | Caption 3 |
