@@ -1,7 +1,55 @@
-# Key Insights
+# Flu Risk Forecasting
 
 
-## Vulnerable Populations - Who?
+## Overview
+
+A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. This analysis supports planning efforts by identifying high-risk population groups using age, examining seasonal trends, and developing a state-level risk profile to help determine when, where, and how many staff may be needed.
+
+
+## Key Questions
+
+1. Which age groups are most affected by influenza?
+2. Is there a relationship between population size and influenza-related deaths?
+3. When does influenza season typically start and end?
+4. How does the severity of influenza vary from year to year?
+5. Which states are most at risk?
+6. Based on risk, when, where, and how many staff should be deployed?
+
+
+## Tools Used 
+
+- **Excel** - Data Preparation | Analysis
+- **Word** - Reporting
+- **Tableau** - Visualisation | Forecasting | Storytelling
+
+
+## Skills Demonstrated
+
+- Project Research | Design | Planning
+- Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
+- Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Seasonal Forecasting
+- Deriving Insights | Data Visualisation | Reporting | Storytelling
+
+
+## Data Sourced
+
+This analysis uses publicly available data sourced from the **Centres for Disease Control and Prevention (CDC)** and the **US Census Bureau** that cover the period 2009 to 2017. The data was provided by **CareerFoundry** as part of their Data Analytics Course.
+
+- [**Influenza-related deaths**](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) - Number of deaths by location, time, and age.
+- [**Population**](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - Number of people by location, time, age, and gender.
+
+
+## Deliverables
+
+- **Interim Report** *(link to be added)*
+- [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [**Detailled Case Study**](https://davidgriesel.com/data-analysis-informing-medical-staffing-plan/)
+
+
+## Key Insights
+
+
+### Vulnerable Populations - Who?
 Adults aged 65 and older account for the vast majority of influenza-related deaths and display the greatest variation in mortality.
 
 <table>
@@ -18,7 +66,7 @@ Adults aged 65 and older account for the vast majority of influenza-related deat
 </table>
 
 
-## Seasonality – When?
+### Seasonality – When?
 Although the annual severity of influenza varied considerably, peak mortality consistently occurred in January, with Southern states often reporting the highest totals — though vulnerable states were not limited to that region.
 
 <table>
@@ -35,7 +83,7 @@ Although the annual severity of influenza varied considerably, peak mortality co
 </table>
 
 
-## Risk Classification & Forecasting – Where & How Many?
+### Risk Classification & Forecasting – Where & How Many?
 States were classified into high, medium, and low risk based on their elderly populations, guiding an effective resource allocation framework.
 
 <table>
