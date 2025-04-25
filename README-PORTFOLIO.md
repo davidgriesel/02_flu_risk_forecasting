@@ -16,7 +16,6 @@
 ## Deliverables
 - **Interim Report** *(link to be added)*
 - [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- **Detailled Case Study***(Link to be added)*
 
 
 ## Data Sourced
@@ -124,7 +123,8 @@ Incorporating data on chronic health conditions and vaccination rates among seni
 
 
 <br><br>
-
+___
+<br><br>
 
 ## License
 This project is licensed under the MIT License.
