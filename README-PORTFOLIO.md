@@ -18,6 +18,6 @@ Adults aged 65+ accounted are most vulnerable to influenza.
 
 ## Risk Classification & Forecasting – Where & How Many?
 
-|![map](visuals/map-vulnerable.png)|![bar](visuals/bar-risk-population.png)|![forecast](visuals/line-risk-forecast).png)|
+|![map](visuals/map-vulnerable.png)|![bar](visuals/bar-risk-population.png)|![forecast](visuals/line-region-yearly.png)|
 |:---:|:---:|:---:|
 | Caption 1 | Caption 2 | Caption 3 |
