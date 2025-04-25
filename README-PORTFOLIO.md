@@ -101,7 +101,7 @@ A medical staffing agency that supplies temporary personnel to clinics and hospi
 </table>
 
 
-## Recommendations
+## Key Recommendations
 
 **Prioritise high-risk states** - States with the largest 65+ populations should receive the majority of seasonal staffing resources, especially between December and February.
 
