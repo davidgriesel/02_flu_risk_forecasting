@@ -40,17 +40,22 @@ States were classified into high, medium, and low risk based on their elderly po
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
   <img src="visuals/map-vulnerable.png" ><br>
   <em>Geospatial view confirms that high-risk populations are not confined to the South — with large vulnerable populations in California, the Northeast, and parts of the Midwest.</em>
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
   <img src="visuals/bar-risk-population.png" ><br>
   <em>Shows the 65+ population across U.S. states grouped into High, Medium, and Low risk profiles.</em>
 </td>
-<td align="center" width="33%">
-  <img src="visuals/line-region-yearly.png" <br>
+</tr>
+</table>
+
+</table>
+<td align="center" width="50%">
+  <img src="visuals/line-risk-forecast.png" <br>
   <em>Forecasted deaths for 2018 reveal sharp seasonal peaks in high-risk states, confirming the elevated burden in these areas. Low-risk states show minimal fluctuation, indicating a reduced need for additional staff.</em>
 </td>
+<td width="50%"></td> 
 </tr>
 </table>
