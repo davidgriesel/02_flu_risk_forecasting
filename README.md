@@ -63,7 +63,6 @@ Incorporating data on chronic health conditions and vaccination rates among seni
 
 This project is licensed under the MIT License.
 
-![Yearly Deaths](visuals/bar-deaths-year.png)
 
 ## Repository Structure
 
