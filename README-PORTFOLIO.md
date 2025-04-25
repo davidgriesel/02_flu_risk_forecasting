@@ -100,20 +100,22 @@ States were classified into high, medium, and low risk based on their elderly po
 
 ## Key Recommendations
 
-**Prioritise high-risk states** - States with the largest 65+ populations should receive the majority of seasonal staffing resources, especially between December and February.
+- **Prioritise high-risk states** - States with the largest 65+ populations should receive the majority of seasonal staffing resources, especially between December and February.
 
-**Use risk classification** - Tiering states into high, medium, and low risk allows for efficient and scalable resource planning.
+- **Use risk classification** - Tiering states into high, medium, and low risk allows for efficient and scalable resource planning.
 
-**Monitor early trends** - Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
+- **Monitor early trends** - Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
 
 
 ## Takeaways
+### Successe
+The project delivered actionable insights into the spatial distribution of vulnerable populations, enabling the creation of a risk profile to guide regional staff allocations. It also enhanced understanding of influenza seasonality, supporting the strategic timing of deployments to meet anticipated healthcare demands.
 
-**Successes** - The project delivered actionable insights into the spatial distribution of vulnerable populations, enabling the creation of a risk profile to guide regional staff allocations. It also enhanced understanding of influenza seasonality, supporting the strategic timing of deployments to meet anticipated healthcare demands.
+### Challengs
+The available data lacked sufficient detail to account for all known risk factors in the analysis. In particular, the suppression of records for children under 5 limited risk assessment for this group, illustrating how data privacy laws can constrain public health analyses when key demographics are excluded.
 
-**Challenges** - The available data lacked sufficient detail to account for all known risk factors in the analysis. In particular, the suppression of records for children under 5 limited risk assessment for this group, illustrating how data privacy laws can constrain public health analyses when key demographics are excluded.
-
-**Way Forward** - To evaluate the proposed deployment strategy, its impact should be monitored during the upcoming influenza season. Tracking performance indicators, such as staffing efficiency, response times, and patient outcomes across risk tiers, will help evaluate resource allocation and guide improvements.
+### Way Forward
+To evaluate the proposed deployment strategy, its impact should be monitored during the upcoming influenza season. Tracking performance indicators, such as staffing efficiency, response times, and patient outcomes across risk tiers, will help evaluate resource allocation and guide improvements.
 
 Incorporating data on chronic health conditions and vaccination rates among seniors could further strengthen the analysis by offering a more comprehensive view of factors driving influenza outcomes. This would support more targeted and effective planning in future seasons.
 
