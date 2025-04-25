@@ -41,11 +41,11 @@ States were classified into high, medium, and low risk based on their elderly po
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="visuals/map-vulnerable.png" width="325"><br>
+  <img src="visuals/map-vulnerable.png" ><br>
   <em>Geospatial view confirms that high-risk populations are not confined to the South — with large vulnerable populations in California, the Northeast, and parts of the Midwest.</em>
 </td>
 <td align="center" width="50%">
-  <img src="visuals/bar-risk-population.png" width="325"><br>
+  <img src="visuals/bar-risk-population.png" ><br>
   <em>Shows the 65+ population across U.S. states grouped into High, Medium, and Low risk profiles.</em>
 </td>
 </tr>
