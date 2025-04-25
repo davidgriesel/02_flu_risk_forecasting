@@ -10,7 +10,7 @@ Adults aged 65+ accounted are most vulnerable to influenza.
 
 <table>
 <tr>
-<td><img src="visuals/pie-deaths-agepng.png" alt="Pie Chart — Deaths by Age group" width="300"></td>
+<td><img src="visuals/pie-deaths-agepng.png" alt="Pie Chart — Deaths by Age group" width="600"></td>
 <td>
 Adults aged 65+ accounted for over 60% of influenza-related deaths, confirming their high-risk status.
 </td>
