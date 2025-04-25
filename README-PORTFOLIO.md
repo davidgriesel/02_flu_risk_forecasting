@@ -1,3 +1,5 @@
+# Flu Risk Forecasting
+
 ## Tools Used 
 - **Excel** - Data Preparation | Analysis
 - **Word** - Reporting
@@ -27,9 +29,9 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 <br><br>
 
 
-# Flu Risk Forecasting
+# Project Overview
 
-## Project Overview
+## Background
 A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. This analysis supports planning efforts by identifying high-risk population groups using age, examining seasonal trends, and developing a state-level risk profile to help determine when, where, and how many staff may be needed.
 
 
