@@ -72,3 +72,8 @@ This project is licensed under the MIT License.
 ├── workbooks/            # Excel Workbooks
 ├── LICENSE               # Project License
 └── README.md             # Project Overview
+
+
+
+
+![Yearly Deaths](visuals/Bar (Deaths Year).png)
