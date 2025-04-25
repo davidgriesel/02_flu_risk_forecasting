@@ -26,7 +26,6 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 - [**Population**](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - Number of people by location, time, age, and gender.
 
 
----
 <br><br>
 
 
@@ -131,7 +130,6 @@ To evaluate the proposed deployment strategy, its impact should be monitored dur
 Incorporating data on chronic health conditions and vaccination rates among seniors could further strengthen the analysis by offering a more comprehensive view of factors driving influenza outcomes. This would support more targeted and effective planning in future seasons.
 
 
----
 <br><br>
 
 
