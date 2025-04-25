@@ -124,7 +124,7 @@ Incorporating data on chronic health conditions and vaccination rates among seni
 
 <br><br>
 ___
-<br><br>
+
 
 ## License
 This project is licensed under the MIT License.
