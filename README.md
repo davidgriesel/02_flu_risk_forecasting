@@ -33,7 +33,7 @@ A medical staffing agency that supplies temporary personnel to clinics and hospi
 - Deriving Insights | Data Visualisation | Reporting | Storytelling
 
 
-## Data Used
+## Data Sourced
 
 This analysis uses publicly available data sourced from the **Centres for Disease Control and Prevention (CDC)** and the **US Census Bureau** that cover the period 2009 to 2017. The data was provided by **CareerFoundry** as part of their Data Analytics Course.
 
@@ -55,6 +55,7 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 **Challenges** - The available data lacked sufficient detail to account for all known risk factors in the analysis. In particular, the suppression of records for children under 5 limited risk assessment for this group, illustrating how data privacy laws can constrain public health analyses when key demographics are excluded.
 
 **Way Forward** - To evaluate the proposed deployment strategy, its impact should be monitored during the upcoming influenza season. Tracking performance indicators, such as staffing efficiency, response times, and patient outcomes across risk tiers, will help evaluate resource allocation and guide improvements.
+
 Incorporating data on chronic health conditions and vaccination rates among seniors could further strengthen the analysis by offering a more comprehensive view of factors driving influenza outcomes. This would support more targeted and effective planning in future seasons.
 
 
@@ -67,6 +68,7 @@ This project is licensed under the MIT License.
 
 ```text
 ├── deliverables/         # Interim Report
+├── visuals/              # Charts
 ├── workbooks/            # Excel Workbooks
 ├── LICENSE               # Project License
 └── README.md             # Project Overview
