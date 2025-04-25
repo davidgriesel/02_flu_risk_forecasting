@@ -1,5 +1,3 @@
-# Flu Risk Forecasting
-
 ## Tools Used 
 - **Excel** - Data Preparation | Analysis
 - **Word** - Reporting
@@ -16,7 +14,7 @@
 ## Deliverables
 - **Interim Report** *(link to be added)*
 - [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [**Detailled Case Study**](https://davidgriesel.com/data-analysis-informing-medical-staffing-plan/)
+- **Detailled Case Study***(Link to be added)*
 
 
 ## Data Sourced
@@ -29,7 +27,9 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 <br><br>
 
 
-# Project Overview
+# Flu Risk Forecasting
+
+## Project Overview
 A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. This analysis supports planning efforts by identifying high-risk population groups using age, examining seasonal trends, and developing a state-level risk profile to help determine when, where, and how many staff may be needed.
 
 
