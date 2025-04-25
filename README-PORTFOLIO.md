@@ -41,11 +41,11 @@ Although the annual severity of influenza varied considerably, peak mortality co
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="visuals/map-vulnerable.png" width="250"><br>
+  <img src="visuals/map-vulnerable.png" width="325"><br>
   <em>*Geospatial view confirms that high-risk populations are not confined to the South — with large vulnerable populations in California, the Northeast, and parts of the Midwest.*</em>
 </td>
 <td align="center" width="50%">
-  <img src="visuals/bar-risk-population.png" width="250"><br>
+  <img src="visuals/bar-risk-population.png" width="325"><br>
   <em>*Shows the 65+ population across U.S. states grouped into High, Medium, and Low risk profiles.*</em>
 </td>
 </tr>
@@ -55,7 +55,7 @@ Although the annual severity of influenza varied considerably, peak mortality co
 <table>
 <tr>
 <td align="center" width="33%">
-  <img src="visuals/line-region-yearly.png" width="250"><br>
+  <img src="visuals/line-region-yearly.png" width="325"><br>
   <em>*Forecasted deaths for 2018 reveal sharp seasonal peaks in high-risk states, confirming the elevated burden in these areas. Low-risk states show minimal fluctuation, indicating a reduced need for additional staff.*</em>
 </td>
 <td width="33%"></td> <!-- Right spacer -->
