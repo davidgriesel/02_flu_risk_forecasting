@@ -57,6 +57,7 @@ Adults aged 65 and older account for the vast majority of influenza-related deat
 </tr>
 </table>
 
+
 ### Seasonality (When?)
 Although the annual severity of influenza varied considerably, peak mortality consistently occurred in January, with Southern states often reporting the highest totals — though vulnerable states were not limited to that region.
 
