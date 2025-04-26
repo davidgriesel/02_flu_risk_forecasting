@@ -45,7 +45,7 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 
 - **Interim Report** *(link to be added)*
 - [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [**Detailled Case Study**](https://davidgriesel.com/data-analysis-informing-medical-staffing-plan/)
+- **Detailled Case Study** *(link to be added)*
 
 
 ## Takeaways
