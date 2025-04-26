@@ -51,7 +51,7 @@ Adults aged 65 and older account for the vast majority of influenza-related deat
     <em>Adults aged 65 and older account for more than 60% of all influenza-related deaths — a trend that reinforces CDC classifications of this group as high risk.</em>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visuals/scatter-correlation.png ><br>
+    <img src="visuals/scatter-correlation.png" ><br>
     <em>There is a strong positive correlation between population size and influenza-related deaths among older adults, particularly those aged 65+. This relationship weakens in younger groups, where mortality is lower and data suppression increases uncertainty.</em>
 </td>
 </tr>
