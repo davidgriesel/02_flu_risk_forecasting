@@ -3,18 +3,22 @@
 
 ## Overview
 A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analysed historical influenza data to identify high-risk population groups through correlation analysis between age and deaths, examined seasonal patterns to determine the start and end of flu season, and developed a state-level risk profile to forecast when, where, and how many staff would be required.
+<br><br>
 
 ## Tools
 - **Excel** - Data Preparation | Analysis
 - **Tableau** - Visualisation | Forecasting | Storytelling
+<br><br>
 
 ## Process
 - Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
 - Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Seasonal Forecasting
 - Data Visualisation | Storytelling
+<br><br>
 
 ## Links
 - [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<br><br>
 
 ## Data
 This analysis uses publicly available data sourced from the **Centres for Disease Control and Prevention (CDC)** and the **US Census Bureau** that cover the period 2009 to 2017. The data was provided by **CareerFoundry** as part of their Data Analytics Course.
@@ -23,8 +27,6 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 - [**Population**](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - Number of people by location, time, age, and gender.
 <br><br>
 
----
-
 ## Key Questions
 1. Which age groups are most affected by influenza?
 2. Is there a relationship between population size and influenza-related deaths?
@@ -32,6 +34,7 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 4. How does the severity of influenza vary from year to year?
 5. Which states are most at risk?
 6. Based on risk, when, where, and how many staff should be deployed?
+<br><br>
 
 ## Key Insights
 
@@ -94,7 +97,7 @@ States were classified into high, medium, and low risk based on their elderly po
 <td width="50%"></td>
 </tr>
 </table>
-<br>
+<br><br>
 
 ## Key Recommendations
 
@@ -107,8 +110,6 @@ Tiering states into high, medium, and low risk allows for efficient and scalable
 ### Monitor early trends
 Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
 <br><br>
-
----
 
 ## Takeaways
 
