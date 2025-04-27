@@ -65,14 +65,10 @@ This project is licensed under the MIT License.
 
 
 ## Repository Structure
+<!-- ├── deliverables/         # Interim Report -->
 
 ```text
 ├── visuals/              # Charts
 ├── workbooks/            # Excel Workbooks
 ├── LICENSE               # Project License
 └── README.md             # Project Overview
-
-
-<!-- ├── deliverables/         # Interim Report -->
-
-
