@@ -5,10 +5,7 @@
 
 ## Overview
 
-This analysis supports a medical staffing agency's staffing plan for the upcoming influenza season by develiping a state-level risk profile to help determine when, where, and how many staff may be needed across the United States.
-
-identifying high-risk population groups using age, examining seasonal trends, and developing a state-level risk profile to help determine when, where, and how many staff may be needed.
-
+Analysed historical influenza data to inform a medical staffing agency’s deployment strategy. The project identified high-risk population groups through correlation analysis between age and deaths, examined seasonal patterns to determine the start and end of flu season, and developed a state-level risk profile to forecast when, where, and how many staff would be required.
 
 <!--## Key Questions
 
