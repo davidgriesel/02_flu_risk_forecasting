@@ -30,7 +30,7 @@ A medical staffing agency that supplies temporary personnel to clinics and hospi
 - Project Research | Design | Planning
 - Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
 - Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Seasonal Forecasting
-- Deriving Insights | Data Visualisation | Reporting | Storytelling
+- Deriving Insights | Data Visualisation | <!-- Reporting | --> Storytelling
 
 
 ## Data Sourced
