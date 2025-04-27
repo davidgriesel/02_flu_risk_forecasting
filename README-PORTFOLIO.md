@@ -52,6 +52,7 @@ Adults aged 65 and older account for the vast majority of influenza-related deat
 </td>
 </tr>
 </table>
+<br><br>
 
 ### 2. Seasonality (When?)
 Although the annual severity of influenza varied considerably, peak mortality consistently occurred in January, with Southern states often reporting the highest totals — though vulnerable states were not limited to that region.
@@ -68,6 +69,7 @@ Although the annual severity of influenza varied considerably, peak mortality co
 </td>
 </tr>
 </table>
+<br><br>
 
 ### 3. Risk Classification & Forecasting (Where & How Many?)
 States were classified into high, medium, and low risk based on their elderly populations, guiding an effective resource allocation framework.
@@ -94,6 +96,7 @@ States were classified into high, medium, and low risk based on their elderly po
 <td width="50%"></td>
 </tr>
 </table>
+<br><br>
 
 ## Key Recommendations
 
@@ -105,6 +108,7 @@ Tiering states into high, medium, and low risk allows for efficient and scalable
 
 ### Monitor early trends
 Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
+<br><br>
 
 ## Takeaways
 
