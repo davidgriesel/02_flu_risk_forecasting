@@ -14,7 +14,6 @@ A medical staffing agency that supplies temporary personnel to clinics and hospi
 - Data Visualisation | Storytelling
 
 ## Links
-- **Interim Report** *(link to be added)*
 - [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Data
@@ -38,7 +37,7 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 
 ## Key Insights
 
-### Vulnerable Populations (Who?)
+**Vulnerable Populations (Who?)**
 Adults aged 65 and older account for the vast majority of influenza-related deaths and display the greatest variation in mortality.
 
 <table>
@@ -98,7 +97,7 @@ States were classified into high, medium, and low risk based on their elderly po
 
 ## Key Recommendations
 
-### Prioritise high-risk states
+**Prioritise high-risk states**
 States with the largest 65+ populations should receive the majority of seasonal staffing resources, especially between December and February.
 
 ### Use risk classification
