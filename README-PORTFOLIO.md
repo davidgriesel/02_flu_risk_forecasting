@@ -97,14 +97,11 @@ States were classified into high, medium, and low risk based on their elderly po
 
 ## Key Recommendations
 
-**Prioritise high-risk states**
-States with the largest 65+ populations should receive the majority of seasonal staffing resources, especially between December and February.
+**Prioritise high-risk states** - States with the largest 65+ populations should receive the majority of seasonal staffing resources, especially between December and February.
 
-### Use risk classification
-Tiering states into high, medium, and low risk allows for efficient and scalable resource planning.
+**Use risk classification** - Tiering states into high, medium, and low risk allows for efficient and scalable resource planning.
 
-### Monitor early trends
-Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
+**Monitor early trends** - Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
 
 ## Takeaways
 
