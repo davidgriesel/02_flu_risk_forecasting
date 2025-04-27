@@ -37,7 +37,7 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 
 ## Key Insights
 
-**Vulnerable Populations (Who?)**
+#### 1. Vulnerable Populations (Who?)
 Adults aged 65 and older account for the vast majority of influenza-related deaths and display the greatest variation in mortality.
 
 <table>
@@ -53,7 +53,7 @@ Adults aged 65 and older account for the vast majority of influenza-related deat
 </tr>
 </table>
 
-### Seasonality (When?)
+#### 2. Seasonality (When?)
 Although the annual severity of influenza varied considerably, peak mortality consistently occurred in January, with Southern states often reporting the highest totals — though vulnerable states were not limited to that region.
 
 <table>
@@ -69,7 +69,7 @@ Although the annual severity of influenza varied considerably, peak mortality co
 </tr>
 </table>
 
-### Risk Classification & Forecasting (Where & How Many?)
+#### 3. Risk Classification & Forecasting (Where & How Many?)
 States were classified into high, medium, and low risk based on their elderly populations, guiding an effective resource allocation framework.
 
 <table>
@@ -97,11 +97,14 @@ States were classified into high, medium, and low risk based on their elderly po
 
 ## Key Recommendations
 
-**Prioritise high-risk states** - States with the largest 65+ populations should receive the majority of seasonal staffing resources, especially between December and February.
+#### Prioritise high-risk states
+States with the largest 65+ populations should receive the majority of seasonal staffing resources, especially between December and February.
 
-**Use risk classification** - Tiering states into high, medium, and low risk allows for efficient and scalable resource planning.
+#### Use risk classification
+Tiering states into high, medium, and low risk allows for efficient and scalable resource planning.
 
-**Monitor early trends** - Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
+#### Monitor early trends
+Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
 
 ## Takeaways
 
