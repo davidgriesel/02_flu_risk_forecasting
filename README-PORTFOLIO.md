@@ -25,8 +25,6 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 
 <hr>
 
-# Results
-
 ## Key Questions
 1. Which age groups are most affected by influenza?
 2. Is there a relationship between population size and influenza-related deaths?
@@ -109,6 +107,8 @@ Tiering states into high, medium, and low risk allows for efficient and scalable
 ### Monitor early trends
 Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
 <br><br>
+
+<hr>
 
 ## Takeaways
 
