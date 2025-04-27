@@ -27,10 +27,10 @@ A medical staffing agency that supplies temporary personnel to clinics and hospi
 
 ## Skills Demonstrated
 
-- Project Research | Design | Planning
+<!-- - Project Research | Design | Planning -->
 - Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
 - Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Seasonal Forecasting
-- Deriving Insights | Data Visualisation | Reporting | Storytelling
+- Deriving Insights | Data Visualisation | <!-- Reporting | --> Storytelling
 
 
 ## Data Sourced
@@ -43,9 +43,9 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 
 ## Deliverables
 
-- **Interim Report** *(link to be added)*
+<!-- - **Interim Report** *(link to be added)* -->
 - [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- **Detailled Case Study** *(link to be added)*
+<!-- - **Detailled Case Study** *(link to be added)* -->
 
 
 ## Takeaways
@@ -65,14 +65,10 @@ This project is licensed under the MIT License.
 
 
 ## Repository Structure
+<!-- ├── deliverables/         # Interim Report -->
 
 ```text
-├── deliverables/         # Interim Report
 ├── visuals/              # Charts
 ├── workbooks/            # Excel Workbooks
 ├── LICENSE               # Project License
 └── README.md             # Project Overview
-
-
-
-
