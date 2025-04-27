@@ -56,9 +56,9 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 Incorporating data on chronic health conditions and vaccination rates among seniors could further strengthen the analysis by offering a more comprehensive view of factors driving influenza outcomes. This would support more targeted and effective planning in future seasons.-->
 
 
-## License
+<!--## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.-->
 
 
 ## Repository Structure
