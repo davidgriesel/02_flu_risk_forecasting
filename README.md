@@ -27,14 +27,14 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 - [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <br><br>
 
-## Key Questions
+<!--## Key Questions
 1. Which age groups are most affected by influenza?
 2. Is there a relationship between population size and influenza-related deaths?
 3. When does influenza season typically start and end?
 4. How does the severity of influenza vary from year to year?
 5. Which states are most at risk?
 6. Based on risk, when, where, and how many staff should be deployed?
-<br><br>
+<br><br>-->
 
 ## Key Insights
 ### 1. Vulnerable Populations
