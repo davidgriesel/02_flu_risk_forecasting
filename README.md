@@ -37,7 +37,6 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 <br><br>
 
 ## Key Insights
-
 ### 1. Vulnerable Populations
 Adults aged 65 and older account for the vast majority of influenza-related deaths and display the greatest variation in mortality.
 
@@ -100,16 +99,12 @@ States were classified into high, medium, and low risk based on their elderly po
 <br><br>
 
 ## Key Recommendations
-
 1. **Prioritise high-risk states** - States with the largest 65+ populations should receive the majority of seasonal staffing resources, especially between December and February.
-
 2. **Use risk classification** - Tiering states into high, medium, and low risk allows for efficient and scalable resource planning.
-
 3. **Monitor early trends** - Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
 <br><br>
 
 ## Takeaways
-
 ### Successes
 The project delivered actionable insights into the spatial distribution of vulnerable populations, enabling the creation of a risk profile to guide regional staff allocations. It also enhanced understanding of influenza seasonality, supporting the strategic timing of deployments to meet anticipated healthcare demands.
 
