@@ -34,7 +34,6 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 4. How does the severity of influenza vary from year to year?
 5. Which states are most at risk?
 6. Based on risk, when, where, and how many staff should be deployed?
-<br><br>-->
 
 ## Key Insights
 ### 1. Vulnerable Populations
