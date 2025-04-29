@@ -27,14 +27,6 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 - [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <br><br>
 
-<!--## Key Questions
-1. Which age groups are most affected by influenza?
-2. Is there a relationship between population size and influenza-related deaths?
-3. When does influenza season typically start and end?
-4. How does the severity of influenza vary from year to year?
-5. Which states are most at risk?
-6. Based on risk, when, where, and how many staff should be deployed?
-
 ## Key Insights
 ### 1. Vulnerable Populations
 Adults aged 65 and older account for the vast majority of influenza-related deaths and display the greatest variation in mortality.
@@ -51,7 +43,6 @@ Adults aged 65 and older account for the vast majority of influenza-related deat
 </td>
 </tr>
 </table>
-<br>
 
 ### 2. Seasonality
 Although the annual severity of influenza varied considerably, peak mortality consistently occurred in January, with Southern states often reporting the highest totals — though vulnerable states were not limited to that region.
@@ -68,7 +59,6 @@ Although the annual severity of influenza varied considerably, peak mortality co
 </td>
 </tr>
 </table>
-<br>
 
 ### 3. Risk Classification & Forecasting
 States were classified into high, medium, and low risk based on their elderly populations, guiding an effective resource allocation framework.
@@ -95,13 +85,6 @@ States were classified into high, medium, and low risk based on their elderly po
 <td width="50%"></td>
 </tr>
 </table>
-<br><br>
-
-## Key Recommendations
-1. **Prioritise high-risk states** - States with the largest 65+ populations should receive the majority of seasonal staffing resources, especially between December and February.
-2. **Use risk classification** - Tiering states into high, medium, and low risk allows for efficient and scalable resource planning.
-3. **Monitor early trends** - Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
-<br><br>
 
 ## Takeaways
 ### Successes
@@ -111,6 +94,4 @@ The project delivered actionable insights into the spatial distribution of vulne
 The available data lacked sufficient detail to account for all known risk factors in the analysis. In particular, the suppression of records for children under 5 limited risk assessment for this group, illustrating how data privacy laws can constrain public health analyses when key demographics are excluded.
 
 ### Way Forward
-To evaluate the proposed deployment strategy, its impact should be monitored during the upcoming influenza season. Tracking performance indicators, such as staffing efficiency, response times, and patient outcomes across risk tiers, will help evaluate resource allocation and guide improvements.
-
-Incorporating data on chronic health conditions and vaccination rates among seniors could further strengthen the analysis by offering a more comprehensive view of factors driving influenza outcomes. This would support more targeted and effective planning in future seasons.
+Going forward, it is essential to recognise that privacy constraints may result in the suppression of critical data. When such limitations arise, efforts should focus on identifying alternative data sources and adopting complementary methodologies to address missing information. Maintaining flexibility in analytical approaches will help ensure that insights remain robust and ethically sound, even in the presence of incomplete datasets.
