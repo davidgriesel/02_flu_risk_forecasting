@@ -2,7 +2,7 @@
 *This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
 ## Overview
-A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analyses historical influenza data to identify high-risk population groups through correlation analysis between age and deaths, examines seasonal patterns to determine the start and end of flu season, and developes a state-level risk profile to forecast when, where, and how many staff would be required.
+A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analyses historical influenza data to identify high-risk population groups through correlation analysis between age and deaths, examines seasonal patterns to determine the start and end of flu season, and develops a state-level risk profile to forecast when, where, and how many staff would be required.
 <br><br>
 
 ## Tools
@@ -17,7 +17,7 @@ A medical staffing agency that supplies temporary personnel to clinics and hospi
 <br><br>
 
 ## Data
-This analysis uses publicly available data sourced from the **Centres for Disease Control and Prevention (CDC)** and the **US Census Bureau** that cover the period 2009 to 2017. The data was provided by **CareerFoundry** as part of their Data Analytics Course.
+This analysis uses publicly available data sourced from the Centers for Disease Control and Prevention (CDC) and the US Census Bureau, covering the period 2009 to 2017. The data was provided by CareerFoundry as part of their Data Analytics programme.
 
 - [**Influenza-related deaths**](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) - Number of deaths by location, time, and age.
 - [**Population**](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - Number of people by location, time, age, and gender.
@@ -52,7 +52,7 @@ Although the annual severity of influenza varied considerably, peak mortality co
 <tr>
 <td align="center" valign="top" width="50%">
     <img src="visuals/line-region-yearly.png" ><br>
-    <em>Influenza deaths rise in November, peak sharply in January, and decline through April. The South shows a notably higher average peak compared to other regions.*/em>
+    <em>Influenza deaths rise in November, peak sharply in January, and decline through April. The South shows a notably higher average peak compared to other regions./em>
 </td>
 <td align="center" valign="top" width="50%">
     <img src="visuals/bar-deaths-year.png" ><br>
@@ -81,7 +81,7 @@ States were classified into high, medium, and low risk based on their elderly po
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visuals/line-risk-forecast.png" <br>
+    <img src="visuals/line-risk-forecast.png" ><br>
     <em>Forecasted deaths for 2018 reveal sharp seasonal peaks in high-risk states, confirming the elevated burden in these areas. Low-risk states show minimal fluctuation, indicating a reduced need for additional staff.</em>
 </td>
 <td width="50%"></td>
