@@ -91,10 +91,10 @@ States were classified into high, medium, and low risk based on their elderly po
 
 ## Takeaways
 ### Successes
-The project delivered actionable insights into the spatial distribution of vulnerable populations, enabling the creation of a risk profile to guide regional staff allocations. It also enhanced understanding of influenza seasonality, supporting the strategic timing of deployments to meet anticipated healthcare demands.
+The project delivered actionable insights into the spatial distribution of vulnerable populations and the timing of the influenza season, enabling the creation of a risk profile to guide strategic staff allocations.
 
 ### Challenges
 The available data lacked sufficient detail to account for all known risk factors in the analysis. In particular, the suppression of records for children under 5 limited risk assessment for this group, illustrating how data privacy laws can constrain public health analyses when key demographics are excluded.
 
 ### Way Forward
-Going forward, it is essential to recognise that privacy constraints may result in the suppression of critical data. When such limitations arise, efforts should focus on identifying alternative data sources and adopting complementary methodologies to address missing information. Maintaining flexibility in analytical approaches will help ensure that insights remain robust and ethically sound, even in the presence of incomplete datasets.
+Going forward, it is essential to recognise how privacy constraints may limit the availability of critical data. When such limitations arise, efforts should focus on identifying alternative data sources and adopting alternative methodologies to address missing information. Maintaining flexibility in analytical approaches will help ensure that insights remain robust and ethically sound, even when datasets are incomplete.
