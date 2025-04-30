@@ -2,7 +2,7 @@
 *This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
 ## Overview
-A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analyses historical influenza data to identify high-risk population groups through correlation analysis between age and deaths, examines seasonal patterns to determine the start and end of flu season, and develops a state-level risk profile to forecast when, where, and how many staff would be required.
+A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analyses historical influenza and population data to identify high-risk population groups through correlation analysis between age and deaths, examine seasonal patterns to determine the start and end of flu season, and develop a state-level risk profile to forecast when, where, and how many staff would be required.
 <br><br>
 
 ## Tools
@@ -34,7 +34,7 @@ Adults aged 65 and older account for the vast majority of influenza-related deat
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visuals/pie-deaths-agepng.png" ><br>
+    <img src="visuals/pie-deaths-age.png" ><br>
     <em>Adults aged 65 and older account for more than 60% of all influenza-related deaths — a trend that reinforces CDC classifications of this group as high risk.</em>
 </td>
 <td align="center" valign="top" width="50%">
@@ -46,24 +46,24 @@ Adults aged 65 and older account for the vast majority of influenza-related deat
 <br>
 
 ### 2. Seasonality
-Although the annual severity of influenza varied considerably, peak mortality consistently occurred in January, with Southern states often reporting the highest totals — though vulnerable states were not limited to that region.
+Although the annual severity of influenza varied considerably, peak mortality consistently occurred in January, with Southern states often reporting the highest totals.
 
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
     <img src="visuals/line-region-yearly.png" ><br>
-    <em>Influenza deaths rise in November, peak sharply in January, and decline through April. The South shows a notably higher average peak compared to other regions.</em>
+    <em>Influenza deaths rise in November, peak sharply in January, and decline through April. The South consistently reports the highest mortality, while other regions follow near-odentical trends.</em>
 </td>
 <td align="center" valign="top" width="50%">
     <img src="visuals/bar-deaths-year.png" ><br>
-    <em>Influenza-related deaths vary from year to year, with notable surges in 2013 and 2015. The average annual death count across the period is 73,158 confirming that while flu season is consistent in timing each year, its severity can fluctuate.</em>
+    <em>The average annual death count across the period is 73,158 but vary significantly year to year with notable surges in 2014 and 2015.</em>
 </td>
 </tr>
 </table>
 <br>
 
 ### 3. Risk Classification & Forecasting
-States were classified into high, medium, and low risk based on their elderly populations, guiding an effective resource allocation framework.
+Allocating risk based on the size of each state’s elderly population revealed greater seasonal variability in deaths among high-risk states, reinforcing the case for prioritised resource allocation.
 
 <table>
 <tr>
@@ -73,18 +73,18 @@ States were classified into high, medium, and low risk based on their elderly po
 </td>
 <td align="center" valign="top" width="50%">
   <img src="visuals/bar-risk-population.png" ><br>
-  <em>Shows the 65+ population across U.S. states grouped into High, Medium, and Low risk profiles.</em>
+  <em>Population size of age group 65+ across U.S. states categorised by risk profile — high-risk states have exponentially larger elderly populations.</em>
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visuals/line-risk-forecast.png" ><br>
-    <em>Forecasted deaths for 2018 reveal sharp seasonal peaks in high-risk states, confirming the elevated burden in these areas. Low-risk states show minimal fluctuation, indicating a reduced need for additional staff.</em>
+    <img src="visuals/line-risk-yearly.png" ><br>
+    <em>Plotting seasonal mortality trends using the state-level risk profile revealed that high-risk states show the most pronounced surges, while low-risk states exhibit more moderate fluctuations — confirming the need for more resources during peak season. </em>
 </td>
-<td width="50%"></td>
+<td align="center" valign="top" width="50%">
+    <img src="visuals/line-risk-forecast.png" ><br>
+    <em>The forecast shows sharp seasonal peaks in high-risk states, reinforcing expectations of a heavier burden in these areas. In contrast, low-risk states display minimal fluctuation, suggesting a lower anticipated need for supplementary staffing</em>
+</td>
 </tr>
 </table>
 <br>
