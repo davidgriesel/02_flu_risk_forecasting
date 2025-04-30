@@ -11,9 +11,9 @@ A medical staffing agency that supplies temporary personnel to clinics and hospi
 <br><br>
 
 ## Process
-- Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
-- Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Forecasting
-- Visualisation | Storytelling
+- **Data Preparation** - Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
+- **Analysis** - Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Forecasting
+- **Communication** - Visualisation | Storytelling
 <br><br>
 
 ## Data
