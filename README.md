@@ -1,8 +1,8 @@
 # Flu Risk Forecasting
-*This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
+*This project was completed as part of the [CareerFoundry Data Analytics Programme](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
 ## Overview
-A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analyses historical influenza and population data to identify high-risk population groups through correlation analysis between age and deaths, examine seasonal patterns to determine the start and end of flu season, and develop a state-level risk profile to forecast when, where, and how many staff would be required.
+A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analyses historical influenza and population data to identify high-risk population groups through correlation analysis between age and mortality, examine seasonal patterns to determine the start and end of flu season, and develop a state-level risk profile to forecast when, where, and how many staff would likely be required.
 <br><br>
 
 ## Tools
@@ -12,12 +12,12 @@ A medical staffing agency that supplies temporary personnel to clinics and hospi
 
 ## Process
 - Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
-- Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Seasonal Forecasting
+- Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Forecasting
 - Visualisation | Storytelling
 <br><br>
 
 ## Data
-This analysis uses publicly available data sourced from the Centers for Disease Control and Prevention (CDC) and the US Census Bureau, covering the period 2009 to 2017. The data was provided by CareerFoundry as part of their Data Analytics programme.
+This analysis uses publicly available data sourced from the Centers for Disease Control and Prevention (CDC) and the US Census Bureau, covering the period from 2009 to 2017. The data was provided by CareerFoundry as part of their Data Analytics programme.
 
 - [**Influenza-related deaths**](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) - Number of deaths by location, time, and age.
 - [**Population**](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - Number of people by location, time, age, and gender.
@@ -52,11 +52,11 @@ Although the annual severity of influenza varied considerably, peak mortality co
 <tr>
 <td align="center" valign="top" width="50%">
     <img src="visuals/line-region-yearly.png" ><br>
-    <em>Influenza deaths rise in November, peak sharply in January, and decline through April. The South consistently reports the highest mortality, while other regions follow near-odentical trends.</em>
+    <em>Influenza deaths rise in November, peak sharply in January, and decline through April. The South consistently reports the highest mortality, while other regions follow near-identical trends.</em>
 </td>
 <td align="center" valign="top" width="50%">
     <img src="visuals/bar-deaths-year.png" ><br>
-    <em>The average annual death count across the period is 73,158 but vary significantly year to year with notable surges in 2014 and 2015.</em>
+    <em>The average annual death count across the period is 73,158 but varies significantly year to year with notable surges in 2014 and 2015.</em>
 </td>
 </tr>
 </table>
@@ -79,11 +79,11 @@ Allocating risk based on the size of each state’s elderly population revealed 
 <tr>
 <td align="center" valign="top" width="50%">
     <img src="visuals/line-risk-yearly.png" ><br>
-    <em>Plotting seasonal mortality trends using the state-level risk profile revealed that high-risk states show the most pronounced surges, while low-risk states exhibit more moderate fluctuations — confirming the need for more resources during peak season. </em>
-</td>
+    <em>Plotting seasonal mortality trends using the state-level risk profile revealed that high-risk states experienced the most pronounced surges, while low-risk states exhibited more moderate fluctuations — confirming the need for more resources during peak season. </em>
+    </td>
 <td align="center" valign="top" width="50%">
     <img src="visuals/line-risk-forecast.png" ><br>
-    <em>The forecast shows sharp seasonal peaks in high-risk states, reinforcing expectations of a heavier burden in these areas. In contrast, low-risk states display minimal fluctuation, suggesting a lower anticipated need for supplementary staffing</em>
+    <em>The forecast shows sharp seasonal peaks in high-risk states, reinforcing expectations of a heavier burden in these areas. In contrast, low-risk states display minimal fluctuation, suggesting a lower anticipated need for supplementary staffing.</em>
 </td>
 </tr>
 </table>
@@ -91,10 +91,10 @@ Allocating risk based on the size of each state’s elderly population revealed 
 
 ## Takeaways
 ### Successes
-The project delivered actionable insights into the spatial distribution of vulnerable populations and the timing of the influenza season, enabling the creation of a risk profile to guide strategic staff allocations.
+The project delivered actionable insights into the geographic distribution of vulnerable populations and seasonal timing, enabling the development of a risk profile to guide strategic staffing decisions.
 
 ### Challenges
-The available data lacked sufficient detail to account for all known risk factors in the analysis. In particular, the suppression of records for children under 5 limited risk assessment for this group, illustrating how data privacy laws can constrain public health analyses when key demographics are excluded.
+The available data lacked sufficient detail to account for all known risk factors in the analysis. In particular, the suppression of records for children under 5 limited risk assessment for this group, highlighting how data privacy laws can constrain public health analysis when key demographics are excluded.
 
 ### Way Forward
-Going forward, it is essential to recognise how privacy constraints may limit the availability of critical data. When such limitations arise, efforts should focus on identifying alternative data sources and adopting alternative methodologies to address missing information. Maintaining flexibility in analytical approaches will help ensure that insights remain robust and ethically sound, even when datasets are incomplete.
+Moving forward, it is essential to recognise how privacy constraints may limit access to critical data. When such limitations arise, efforts should focus on identifying alternative sources and adopting alternative methodologies to address gaps. Maintaining adaptability in analytical approaches will help ensure that insights remain robust and ethically sound, even when datasets are incomplete.
