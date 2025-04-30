@@ -52,7 +52,7 @@ Although the annual severity of influenza varied considerably, peak mortality co
 <tr>
 <td align="center" valign="top" width="50%">
     <img src="visuals/line-region-yearly.png" ><br>
-    <em>Influenza deaths rise in November, peak sharply in January, and decline through April. The South shows a notably higher average peak compared to other regions./em>
+    <em>Influenza deaths rise in November, peak sharply in January, and decline through April. The South shows a notably higher average peak compared to other regions.</em>
 </td>
 <td align="center" valign="top" width="50%">
     <img src="visuals/bar-deaths-year.png" ><br>
