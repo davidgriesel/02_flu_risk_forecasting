@@ -2,7 +2,7 @@
 *This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
 ## Overview
-A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analysed historical influenza data to identify high-risk population groups through correlation analysis between age and deaths, examined seasonal patterns to determine the start and end of flu season, and developed a state-level risk profile to forecast when, where, and how many staff would be required.
+A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analyses historical influenza data to identify high-risk population groups through correlation analysis between age and deaths, examines seasonal patterns to determine the start and end of flu season, and developes a state-level risk profile to forecast when, where, and how many staff would be required.
 <br><br>
 
 ## Tools
